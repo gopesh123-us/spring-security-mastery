@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gsdevops</groupId>
-	<artifactId>spring-security-mastery</artifactId>
+	<artifactId>spring-security-mastery-section2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
