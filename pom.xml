@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gsdevops</groupId>
-	<artifactId>springsecsection2</artifactId>
+	<artifactId>springsecsection3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
